@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on enhancing my problem solving skills
 - 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on data science projects, Computer Vision and Machine Learning Projects
+- 👯 I’m looking to collaborate on Data Science, Computer Vision and Machine Learning Projects
 
 
 ![Pramit's github stats](https://github-readme-stats.vercel.app/api?username=Pramit29&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
