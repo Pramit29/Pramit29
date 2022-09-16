@@ -24,7 +24,7 @@
 <a href="https://github.com/" target="_blank"><img height="40" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=pramitdkgogna&theme=nord) 
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=pramitdkgogna&theme=nord) -->
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/pramit-deep-kaur-gogna/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
